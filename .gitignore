@@ -59,4 +59,5 @@ typings/
 
 # Hexo files
 .deploy_git
-public/*
+public/
+db.json
