@@ -58,4 +58,5 @@ typings/
 .env
 
 # Hexo files
-public/
+.deploy_git
+public/*
